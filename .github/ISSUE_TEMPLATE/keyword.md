@@ -3,7 +3,7 @@ name: keyword
 about: 책을 읽는 과정에서 중요하다고 생각하는 키워드를 정리하기 위한 템플릿입니다
 title: "[keyword]"
 labels: keyword
-assignees: binchoo, wooyounggggg, leejaeseung, emiling, ngwoon, JasonYoo1995
+assignees: horiz.d, leejaeseung
 
 ---
 
@@ -16,4 +16,4 @@ assignees: binchoo, wooyounggggg, leejaeseung, emiling, ngwoon, JasonYoo1995
 
 #{연관 issue 번호}
 
-@caffeine-library/readers-objects
+
